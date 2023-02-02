@@ -1,0 +1,13 @@
+@import url("styles/header.css");
+@import url("styles/main.css");
+@import url("styles/footer.css");
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+:root {
+    --font-principal: 'Righteous', cursive;
+    --font-secundaria: 'Sarala', sans-serif;
+}
+
+body {
+
+}
