@@ -1,0 +1,10 @@
+.rodape {
+    border-top:  0.4px solid var(--branco);
+    padding: 32px;
+}
+
+.rodape-img {
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+}

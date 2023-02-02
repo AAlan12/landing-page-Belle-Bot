@@ -6,6 +6,7 @@
 :root {
     --branco: #FFF2E7;
     --marrom-claro: #ECD6C4;
+    --marrom-medio: rgba(234, 214, 196, 0.53);
     --marrom-escuro: #2F2325;
     --marron-degrade: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
     --font-principal: 'Righteous', cursive;

@@ -43,6 +43,11 @@
     color: var(--marrom-escuro);
 }
 
+.conteudo-principal-escrito-botao:hover {
+    cursor: pointer;
+    background-color: var(--marrom-medio);
+}
+
 .conteudo-principal-escrito-img {
     height: 430px;
 }
