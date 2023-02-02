@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
 @import url("styles/header.css");
 @import url("styles/main.css");
 @import url("styles/footer.css");
-@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
 
 :root {
     --branco: #FFF2E7;
+    --marrom-claro: #ECD6C4;
+    --marrom-escuro: #2F2325;
     --marron-degrade: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
     --font-principal: 'Righteous', cursive;
     --font-secundaria: 'Sarala', sans-serif;
