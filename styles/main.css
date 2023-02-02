@@ -47,6 +47,27 @@
     height: 430px;
 }
 
-.conteudo-secundario {}
-.conteudo-secundario-titulo {}
-.conteudo-secundario-paragrafo {}
+.conteudo-secundario {
+    margin-top: 48px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+}
+
+.conteudo-secundario-titulo {
+    border-top:  0.4px solid var(--branco);
+    padding-top: 48px;
+    font-family: var(--font-principal);
+    font-weight: 400;
+    font-size: 24px;
+    color: var(--branco);
+    margin-bottom: 16px;
+}
+
+.conteudo-secundario-paragrafo {
+    font-family: var(--font-secundaria);
+    font-weight: 300;
+    font-size: 18px;
+    color: var(--branco);
+}
