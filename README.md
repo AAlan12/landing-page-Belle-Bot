@@ -15,6 +15,7 @@ Landing Page para a página da Belle Bot
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/AAlan12/landing-page-Belle-Bot/blob/main/img/vitdev/thumb1.PNG?raw=true#vitrinedev)
+![](https://github.com/AAlan12/landing-page-Belle-Bot/blob/main/img/vitdev/thumb3.PNG?raw=true#vitrinedev)
 
 ## Detalhes do projeto
 
